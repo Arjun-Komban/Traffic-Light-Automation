@@ -1,7 +1,7 @@
 # Traffic-Light-Automation
 
 
-I made a traffic light automation program with the use arduino to detect the vehicles count and let the allow to pass on their number.
+I made a traffic light automation program with the use arduino to detect the vehicles count and let them to pass on the basis of their count.
 
 # Function
 
